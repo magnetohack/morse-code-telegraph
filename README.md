@@ -5,7 +5,6 @@
 
 * Easter chicken with MSP430 implant making it speak morse code (triggered by light sensor). 
 
-   ![Photo1](https://github.com/magnetohack/morse-code-telegraph/edit/main/images/morse-speaking-chicken.jpg)
-
-  ![Photo2](https://github.com/magnetohack/morse-code-telegraph/edit/main/images/morse-implant.jpg)
+   ![Photo](https://github.com/magnetohack/morse-code-telegraph/edit/main/images/morse-speaking-chicken.jpg)  
+![Photo](https://github.com/magnetohack/morse-code-telegraph/edit/main/images/morse-implant.jpg)
 
